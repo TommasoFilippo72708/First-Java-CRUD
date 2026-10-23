@@ -44,6 +44,12 @@ First-Java-CRUD/
 
 This project demonstrates basic CRUD operations, object-oriented programming, and console input handling in Java.
 
+## Features
+This is a simple CRUD application built with Spring Boot and Vaadin.
+You can create, read, update, delete and filter customers.
+
 ---
 
 **Author:** TommasoFilippo
+
+
