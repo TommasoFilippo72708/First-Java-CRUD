@@ -51,5 +51,11 @@ You can create, read, update, delete and filter customers.
 ---
 
 **Author:** TommasoFilippo
+## Input Validation
 
+The application validates user input and handles invalid student IDs.
+
+## Collaboration
+
+This README was updated by a contributor as part of the GitHub collaboration exercise.
 
