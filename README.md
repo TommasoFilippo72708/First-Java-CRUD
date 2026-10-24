@@ -51,5 +51,8 @@ You can create, read, update, delete and filter customers.
 ---
 
 **Author:** TommasoFilippo
+## Collaboration
 
+This project was updated as part of a GitHub collaboration exercise.
+The application supports adding, listing, updating, and deleting students.
 
